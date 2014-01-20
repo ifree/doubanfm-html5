@@ -1,4 +1,4 @@
-* doubamFM html5 version
+* doubamFM html5 
   save my laptop from f**kin flash plugin.
 * features
   same as doubanfm
