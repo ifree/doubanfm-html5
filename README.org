@@ -1,0 +1,7 @@
+* doubamFM html5 version
+  save my laptop from f**kin flash plugin.
+* features
+  same as doubanfm
+* todos
+  + [ ] login support
+  + [ ] volume control
